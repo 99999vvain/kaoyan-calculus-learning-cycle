@@ -1,6 +1,6 @@
 # 考研高数学习闭环 · Kaoyan-Calculus-Learning-Cycle
 
-**Status: Experimental**（候选版 v1.3.6，未发布）
+**Status: Experimental**（候选版 v1.3.7；当前为**私有仓库**，尚未公开发布）
 
 一个面向考研数学一高等数学第一轮基础复习的 AI 陪学工作流。它把"每天 30~45 分钟复习"变成一份可追溯的记录：定计划、查前置、讲概念、出题、批改、独立检验、写台账、排复习，跨会话接得上。
 
@@ -520,7 +520,7 @@ ls -l data/*.md      # Windows：dir data\*.md
 
 ```
 基于「考研高数学习闭环 / Kaoyan-Calculus-Learning-Cycle」
-（作者 99999vvain，许可 CC BY 4.0，原仓库 <仓库地址>）改编，并作出了修改。
+（作者 99999vvain，许可 CC BY 4.0，原仓库 https://github.com/99999vvain/kaoyan-calculus-learning-cycle）改编，并作出了修改。
 ```
 
 **注意**：CC BY 4.0 与 MIT 都**允许商业使用**。想让别人不能拿去卖，这两份许可都做不到——标准开放许可里没有"禁止商用"这一档。
