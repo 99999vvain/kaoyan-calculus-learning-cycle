@@ -10,7 +10,8 @@
 版权所有者：**99999vvain**（2026）
 
 > **发布状态**：授权文本与内容来源说明（第四节）均已就位，维护者已于 2026-10-22 确认来源。
-> 仓库已建立并推送至 https://github.com/99999vvain/kaoyan-calculus-learning-cycle，**当前为私有**；转为公开由维护者决定（计划在第三方实装测试完成后）。
+> 仓库已建立并**公开**：https://github.com/99999vvain/kaoyan-calculus-learning-cycle。
+> **尚无第三方实装验证**，具体未验证项见 `README.md`「这 4 件事没有任何人验证过」一节。
 
 ---
 
