@@ -1,0 +1,19 @@
+# 学习者数据（敏感，禁止提交）
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时导出
+*.tmp
+*.bak
